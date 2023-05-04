@@ -3,6 +3,10 @@
 이미지 속 물체의 윤곽선을 인식한 후, 정사각형으로 이미지를 재단한다. 
 이미지를 정사각형으로 재단할 수 없는 경우, 기존의 이미지를 반환한다.
 
+<figure class="half">
+  <img src="https://user-images.githubusercontent.com/60128466/236175809-19db1f4f-d886-4d97-824d-4ceb0f05e964.png">
+  <img src="https://user-images.githubusercontent.com/60128466/236177304-8272ccec-b424-4900-8047-a4496c550d24.png">
+figure>
 
 <재단이 불가한 경우>
 1. 정사각형으로 자르게 되면 원본 이미지의 사이즈를 초과하는 경우
